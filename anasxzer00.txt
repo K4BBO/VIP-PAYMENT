@@ -1,0 +1,3 @@
+this scampage coded php, by @anasxzer00 from telegram.
+
+- just replace bot token and chatid on process.php
